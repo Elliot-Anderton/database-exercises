@@ -7,7 +7,7 @@ TRUNCATE albums;
             ('Pink Floyd', 'The Dark Side of the Moon', '1973', '24.2', 'Progressive rock'),
             ('Meat Loaf', 'Bat Out of Hell', '1977', '21.5', 'Hard rock, Progressive rock'),
             ('Whitney Houston / Various artists', 'The Bodyguard', '1992', '28.4', 'R&B, Soul, Pop, Soundtrack'),
-            ('The Eagles, Their Greatest Hits', '1975', '1976', '32.2', 'Rock, Soft rock, Folk rock'),
+            ('The Eagles', 'Their Greatest Hits', '1976', '32.2', 'Rock, Soft rock, Folk rock'),
             ('Bee Gees / Various artists', 'Saturday Night Fever', '1977', '21.6', 'Disco'),
             ('Fleetwood Mac', 'Rumours', '1977', '27.9', 'Soft rock'),
             ('Various artists', 'Grease: The Original Soundtrack from the Motion Picture', '1978', '14.4', 'Soundtrack'),
